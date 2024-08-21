@@ -11,3 +11,4 @@ serde_json='1.0.125'
 serde = { version = "1.0", features = ["derive"] }
 tower-http={version='0.5.2',features=["cors"]}
 http='1.1.0'
+sysinfo='0.31.2'
